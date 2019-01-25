@@ -8,6 +8,7 @@ These assignments (except assignement 1) are about building a Yelp Recommendatio
 | Assignment 1  | “Stack Overflow 2018 Developer Survey | Scala | Spark  | Map Reduce  |
 | Assignment 2  | Yelp DataSet for Business Ratings | Scala, Python | Spark  | ALS, UserBased CF using Pearson Correlation  |
 | Assignment 3  | Yelp Frequent Item Set using SON Apriori | Python | Spark  | SON using Apriori |
+| Assignment 4 | Clustering - K means and Bisecting K means | Python | Spark | K Means |
 
 ## How To Use
 You can find assignments description and source code in each assighment folder
